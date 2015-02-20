@@ -6,3 +6,7 @@ html, body {
 body {
 	background: black;
 }
+
+p {
+	color: white;
+}
